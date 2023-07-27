@@ -5,3 +5,5 @@ draft: true
 ---
 
 **Here is my first post**
+
+This is pretty exciting - let's see how the functionality works when I do a basic text post like this. 
