@@ -21,3 +21,9 @@ theme = 'jack-custom-theme'
     name = "Reading"
     url = "/reading"
     weight = 30
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
+    weight = 40
