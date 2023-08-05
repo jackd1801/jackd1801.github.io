@@ -2,6 +2,7 @@
 title: Leaving Home
 date: 2022-11-16T18:21:41+02:00
 tags: ['reflective', 'personal', 'uk']
+readingTime: True 
 ---
 
 Almost everyone that I know who has ever spoken to me about my dreams in life would be able to tell you that I’ve never seen my long-term future in the UK. Since I can remember, and have been able to contemplate such things, I’ve wanted to explore and live somewhere else in the world. For the most part this has been North America (mainly the United States), and while over time that specific part of the dream has waned, I’ve never properly considered staying.

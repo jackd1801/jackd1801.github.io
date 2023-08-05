@@ -2,9 +2,9 @@
 
 body {
   color: #333;
-  font-size: 125%;
+  font-size: 150%;
   line-height: 1.5;
-  max-width: 45rem;
+  max-width: 50rem;
   padding: 1rem;
   margin: 0 auto;
 }
@@ -15,8 +15,13 @@ body {
 }
 
 .content {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
+
+h1 {
+  text-align: center;
+}
+
 
 /* NAVIGATION */
 
@@ -40,6 +45,11 @@ body {
   margin: 0;
   padding: 0;
 }
+
+a:link, a:visited {
+  color: #0000EE; /* Change this to whatever color you want */
+}
+
 
 @media screen and (max-width: 48rem) {
   .site-nav,

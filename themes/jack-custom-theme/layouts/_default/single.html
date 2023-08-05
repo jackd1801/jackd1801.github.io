@@ -1,7 +1,12 @@
 {{ partial "header.html" . }}
 
 <h1>{{ .Title }}</h1>
-
+{{ if .Params.readingTime }}
+  <div style="display: flex; justify-content: start; gap: 20px;">
+    <p>Date published: {{ .Date.Format "Jan 2, 2006" }}</p>
+    <p>{{ partial "readingTime.html" . }}</p>
+  </div>
+{{ end }}
 {{ .Content }}
 
 {{ partial "footer.html" . }}
