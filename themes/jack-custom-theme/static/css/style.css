@@ -9,6 +9,11 @@ body {
   margin: 0 auto;
 }
 
+.site-header {
+  background: linear-gradient(0deg, #2ca02c 33.33%, #ffcc00 33.33%, #ffcc00 66.67%, #1f77b8 66.67%);
+  background-size: 100%;
+}
+
 .content {
   margin-bottom: 2rem;
 }

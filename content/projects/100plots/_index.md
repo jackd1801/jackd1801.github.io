@@ -6,17 +6,17 @@ My ongoing project to make 100 different plots. A take on visas do 100 things ma
 
 **Plot 1** 
 
-{{<image Plot1UKHomeDeficit.png Resize "1200x" />}}
+{{<image Plot1UKHomeDeficit.png Resize "1200x" >}}
 
 **Plot 2**
 
-{{<image Plot2NetMigration.jpeg Resize "1200x" />}}
+{{<image Plot2NetMigration.jpeg Resize "1200x" >}}
 
 **Plot 3**
-{{<image Plot3GapminderRwanda.gif Resize "1200x" />}}
+{{<image Plot3GapminderRwanda.gif Resize "1200x" >}}
 
 **Plot 4**
-{{<image Plot4DailyVaccines.gif Resize "1200x" />}}
+{{<image Plot4DailyVaccines.gif Resize "1200x" >}}
 
 **Plot 5**
-{{<image Plot5IMDB.jpeg Resize "1200x" />}}
+{{<image Plot5IMDB.jpeg Resize "1200x" >}}
