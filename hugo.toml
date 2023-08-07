@@ -8,22 +8,28 @@ theme = 'jack-custom-theme'
     identifier = "about"
     name = "About"
     url = "/about"
-    weight = 10
+    weight = 15
 
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-    weight = 20
+    weight = 30
 
   [[menu.main]]
-    identifier = "reading"
-    name = "Reading"
-    url = "/reading"
-    weight = 30
+    identifier = "media"
+    name = "Media"
+    url = "/media"
+    weight = 45
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects"
-    weight = 40
+    weight = 60
+
+  [[menu.main]]
+    identifier = "photos"
+    name = "Photos"
+    url = "/photos"
+    weight = 75

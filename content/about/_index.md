@@ -8,4 +8,3 @@ After completing my education I lived and worked for 3 years in London as a UK c
 
 My current favourite hobbies are climbing (both bouldering and rope), football, boxing, and reading. Though I’ve also caught a bit of a travel bug now that I’ve started to visit places on my own.
 
-This website is currently functioning as a place to hold some personal posts and photos, but I’m hoping to write some longer content about economics and politics as I find the time to do so. Imbereheza roughly translates as progress/development and I want to contribute in some small way to that through my work and my writing. 

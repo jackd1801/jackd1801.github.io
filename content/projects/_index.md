@@ -1,7 +1,7 @@
 ---
 title: Projects
 type: custom
-layout: reading
+layout: list_nodate
 ---
 
 Place to showcase all the things I'm currently working on.  
