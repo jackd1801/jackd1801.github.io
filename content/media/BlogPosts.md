@@ -15,3 +15,5 @@ title: Blog Posts
 
 [North England vs. The Netherlands](https://www.tomforth.co.uk/northernlands/) by Tom Forth
 
+[Writing, Briefly](http://www.paulgraham.com/writing44.html) by Paul Graham 
+

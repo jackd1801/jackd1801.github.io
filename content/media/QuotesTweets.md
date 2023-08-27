@@ -10,6 +10,8 @@ title: Quotes and Tweets
 
 “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” - Samuel Beckett
 
+"Yesterday is history, tomorrow is a mystery, and today is a gift––that is why it is called the present" - Master Oogway
+
 "Work on your ability to manifest the life that you want" - @visakanv
 
 "If the pain of rejection is acute, the pain of regret is chronic" - random twitter user
