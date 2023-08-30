@@ -1,6 +1,6 @@
 ---
 title: Writing More
-date: 2023-08-28
+date: 2023-08-30
 readingTime: True 
 ---
 
