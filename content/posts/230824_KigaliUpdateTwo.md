@@ -1,6 +1,6 @@
 ---
 title: "Kigali Update #2"
-date: 2023-08-24T18:21:41+02:00
+date: 2023-08-24
 readingTime: True 
 ---
 
@@ -53,5 +53,5 @@ Thanks for reading if you made it this far and I'll see you in the next one.
 **Work:** Projects starting to take shape, better understanding of Rwandan work culture, feel like I'm actually effective.  
 **Travel:** Want to do write-ups for the places I've been, visit home was enjoyable but busy, excited for upcoming trips.  
 **Sports/Social:** Getting into a better routine fitness wise, have made some good friends, board games nights becoming a success.  
-**Misc.:** Car has been a nightmare and waste of money, better health after dietary changes. 
+**Misc.:** Car has been a nightmare and waste of money, better health after dietary changes.                
 **Overall:** Feeling content, excited for what's ahead.

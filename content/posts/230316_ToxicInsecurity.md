@@ -1,6 +1,6 @@
 ---
 title: Toxic Insecurity
-date: 2023-03-16T18:21:41+02:00
+date: 2023-03-16
 tags: ['reflective', 'personal']
 readingTime: True 
 ---

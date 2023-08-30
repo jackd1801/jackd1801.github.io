@@ -1,6 +1,6 @@
 ---
 title: "Goals [July - December 2023]"
-date: 2023-07-22T18:21:41+02:00
+date: 2023-07-22
 tags: ['personal']
 readingTime: True 
 ---

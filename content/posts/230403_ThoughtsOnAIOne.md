@@ -1,6 +1,6 @@
 ---
 title: 'Thoughts on AI: Language Part 1'
-date: 2023-04-03T18:21:41+02:00
+date: 2023-04-03
 tags: ["ai","economics"]
 readingTime: True 
 ---

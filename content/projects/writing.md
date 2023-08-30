@@ -10,5 +10,6 @@ I want to write more and the best way to write more is to find the things that I
 - Air quality/how much have I potentially reduced life moving to poor air quality city 
 - Noise pollution - specifically around why it is a big deal and how big a deal it is, maybe approaching a general explainer
 - Economics of remittances
+- Scottish drug problem 
 
 N.B. I've noticed that finding topics to write about is similar to buying books. It's fun and easy to do the initial part, the sitting down and actually writing (reading) is much harder and you end up with loads of ideas just left on the shelves collecting dust. I'll try to keep that to a minimum. 

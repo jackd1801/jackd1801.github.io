@@ -1,6 +1,6 @@
 ---
 title: Leaving Home
-date: 2022-11-16T18:21:41+02:00
+date: 2022-11-16
 tags: ['reflective', 'personal', 'uk']
 readingTime: True 
 ---

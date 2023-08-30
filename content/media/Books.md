@@ -2,6 +2,8 @@
 Title: Books
 ---
 
+Link to my goodreads profile [here](https://www.goodreads.com/user/show/146508944-jack-d) where I have more detailed ratings/reviews. 
+
 Open Borders by Bryan Kaplan
 
 Triumph of the City by Edward Glaeser
@@ -21,3 +23,4 @@ Date-onomics by John Birger
 Narconomics by Tom Wainwright
 
 The Big Ones by Lucy Jones
+

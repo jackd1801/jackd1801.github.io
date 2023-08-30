@@ -1,6 +1,6 @@
 ---
 title: 'Kigali Update #1'
-date: 2023-04-09T18:21:41+02:00
+date: 2023-04-09
 readingTime: True 
 ---
 
