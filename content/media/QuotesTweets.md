@@ -10,6 +10,8 @@ title: Quotes and Tweets
 
 “Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.” - Samuel Beckett
 
+"Good writers borrow from other writers, great writers steal from other writers." 
+
 "Yesterday is history, tomorrow is a mystery, and today is a gift––that is why it is called the present" - Master Oogway
 
 "Work on your ability to manifest the life that you want" - @visakanv

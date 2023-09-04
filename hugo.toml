@@ -5,6 +5,12 @@ theme = 'jack-custom-theme'
 
 [menu]
   [[menu.main]]
+    indentifier = "home"
+    name="Home"
+    url="/"
+    weight=1
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
