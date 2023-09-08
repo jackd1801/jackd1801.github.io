@@ -2,6 +2,7 @@
 title: Writing More
 date: 2023-08-30
 readingTime: True 
+categories: ["Self-improvement"]
 ---
 
 I want to write more. I want to write a lot more. 

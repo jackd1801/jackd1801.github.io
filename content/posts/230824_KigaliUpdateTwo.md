@@ -2,6 +2,7 @@
 title: "Kigali Update #2"
 date: 2023-08-24
 readingTime: True 
+categories: ["Personal", "Rwanda"]
 ---
 
 [Click here for TL;DR](#tldr)

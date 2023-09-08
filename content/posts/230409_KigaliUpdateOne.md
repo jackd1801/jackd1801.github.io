@@ -2,6 +2,7 @@
 title: 'Kigali Update #1'
 date: 2023-04-09
 readingTime: True 
+categories: ["Personal", "Rwanda"]
 ---
 
 It’s coming up on the 4-month anniversary of me moving to Kigali (1/6th of the time I’ll be here) so I thought I’d write down some thoughts and reflections of my experience so far.

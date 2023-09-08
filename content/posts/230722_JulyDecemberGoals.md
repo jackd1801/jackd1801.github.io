@@ -1,7 +1,7 @@
 ---
 title: "Goals [July - December 2023]"
 date: 2023-07-22
-tags: ['personal']
+categories: ['personal', 'Self-Improvement']
 readingTime: True 
 ---
 This past week I’ve been feeling a bit lost about what to do. Work isn't taking enough of my time or mental energy to keep me stimulated, and I’ve not found any side projects that pique my interest. I think part of this has to do with not having any concrete goals right now – I have some longer-term ones in the back of my head, like where I want to go after this job and a broader scope of how I want the next 5 years to go, but nothing for the next 6 months – 1 year. So, I thought I would write some down.
