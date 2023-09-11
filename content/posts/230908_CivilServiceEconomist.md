@@ -4,9 +4,15 @@ date: 2023-09-08
 readingTime: TRUE
 categories: ["Civil Service", "Career"]
 ---
+## TL;DR
 
-[Click here for TL;DR](#tldr)
-
+- Competitive starting pay in line with median salaries for economics graduates.
+- Strong pension schemes offering both defined benefit and defined contribution options.
+- Ample opportunities for skill development and continuous learning through the Government Economics Service.
+- High potential for social impact working on major national issues.
+- Excellent flexibility, allowing for a balanced work-life experience.
+- Opens doors for various career paths both within and outside of the civil service.
+---
 With applications for the Civil Service Fast Stream about to open I thought I'd write a bit about why you should consider becoming a civil service economist.  It's a great career path that has competitive pay, interesting work, loads of flexibility, and can enable your future career across a range of options. 
 
 I started my career in the civil service through the Mainstream Economist programme. This differs from the Fast Stream in that you are put into a specific role at [Higher Executive Officer](https://defrajobs.co.uk/working-here/civil-service-grades-explained/) (HEO) level on a permanent contract. The opportunity for rotations and advancement are department specific and less structured than the Fast Stream, but in general are very similar. I'll do a follow-up post explaining the differences between the two schemes in more detail.
@@ -51,13 +57,8 @@ Unfortunately, there is a bit of a hard cap on how far you can go in the civil s
 
 Joining the civil service as an economist is a solid option for those approaching their final year and not sure what they want to work on. It pays well, offers interesting and impactful work, loads of training opportunities, and the flexibility to design your own career path. I recommend it. 
 
---- 
-<a id="tldr"></a>
-## TL;DR
 
-- Competitive starting pay in line with median salaries for economics graduates.
-- Strong pension schemes offering both defined benefit and defined contribution options.
-- Ample opportunities for skill development and continuous learning through the Government Economics Service.
-- High potential for social impact working on major national issues.
-- Excellent flexibility, allowing for a balanced work-life experience.
-- Opens doors for various career paths both within and outside of the civil service.
+
+
+
+

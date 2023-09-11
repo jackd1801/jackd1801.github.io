@@ -4,8 +4,16 @@ date: 2023-08-24
 readingTime: True 
 categories: ["Personal", "Rwanda"]
 ---
+--- 
+## TL;DR
 
-[Click here for TL;DR](#tldr)
+**Work:** Projects starting to take shape, better understanding of Rwandan work culture, feel like I'm actually effective.  
+**Travel:** Want to do write-ups for the places I've been, visit home was enjoyable but busy, excited for upcoming trips.  
+**Sports/Social:** Getting into a better routine fitness wise, have made some good friends, board games nights becoming a success.  
+**Misc.:** Car has been a nightmare and waste of money, better health after dietary changes.                
+**Overall:** Feeling content, excited for what's ahead.
+
+---
 
 Hello again, I’m now 8 months or so into my 2-year placement here in Kigali. Time really has flown since I wrote the last one of these and I’m going to change up the format so it’s a bit more sustainable going forward for writing these. 
 I’ve broken it down into sections on work, travel, social/sports, and miscellaneous, with a more mood focused update at the end. 
@@ -47,12 +55,3 @@ This past week or so I’ve been reflecting on how high my mood is day-to-day. I
 
 Thanks for reading if you made it this far and I'll see you in the next one.
 
---- 
-<a id="tldr"></a>
-## TL;DR
-
-**Work:** Projects starting to take shape, better understanding of Rwandan work culture, feel like I'm actually effective.  
-**Travel:** Want to do write-ups for the places I've been, visit home was enjoyable but busy, excited for upcoming trips.  
-**Sports/Social:** Getting into a better routine fitness wise, have made some good friends, board games nights becoming a success.  
-**Misc.:** Car has been a nightmare and waste of money, better health after dietary changes.                
-**Overall:** Feeling content, excited for what's ahead.

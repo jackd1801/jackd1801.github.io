@@ -1,6 +1,7 @@
 ---
 title: Leaving Home
 date: 2022-11-16
+categories: ['Personal']
 tags: ['reflective', 'personal', 'uk']
 readingTime: True 
 ---
