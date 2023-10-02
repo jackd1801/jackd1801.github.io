@@ -28,27 +28,29 @@ Dream Hoarders by Richard Reeves
 
 Pop Internationalism by Paul Krugman
 
-### Business
+### Geopolitics
 
-Bad Blood by John Carreyrou
-
-Shoe Dog by Phil Knight
+Prisoners of Geography by Tim Marshall
 
 The Chip War by Chris Miller
 
-### Misc.
+### Autobiography
 
-The Big Ones by Lucy Jones
+Shoe Dog by Phil Knight
 
 Surely You're Joking Mr. Feynman! by Richard Feynman
 
-Date-onomics by John Birger
-
 And Away... by Bob Mortimer
+
+### Other
+
+The Big Ones by Lucy Jones
+
+Date-onomics by John Birger
 
 Spike by Jeremy Farrar
 
-Prisoners of Geography by Tim Marshall
+Bad Blood by John Carreyrou
 
 Factfulness by Hans Rosling 
 

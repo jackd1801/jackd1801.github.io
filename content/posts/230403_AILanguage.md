@@ -1,12 +1,9 @@
 ---
-title: 'Thoughts on AI: Language Part 1'
+title: 'AI and Language'
 date: 2023-04-03
-tags: ["ai","economics"]
+categories: ["AI","Economics"]
 readingTime: True 
 ---
-
-This is going to my first post in a series with some of my thoughts about AI and where the technology might be taking us.
-
 One of the largest and most immediate impacts of GPT-4 and other emerging AI technology, like Whisper, Midjourney, and text-to-speech generation, is going to be on language.
 
 There are three key areas where I think it’ll be applied in the near future, which are learning languages, media translation, and creation of a real life babel fish.  I finish up with some thoughts on what it might mean for work.
