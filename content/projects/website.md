@@ -16,3 +16,6 @@ title: Website Improvements
 - Improve general appearance - look at some different fonts
 - Optimise photo loading for photos page 
 - Fix icon background
+- Change branding of website to focus on it being personal - move serious writing to substack as primary method of distribution 
+- Create a link tree or google doc that let's people choose which one they want to engage with 
+- Maybe do Chelsea colours for personal website - think that would be nice 
