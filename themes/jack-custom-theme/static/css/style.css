@@ -19,7 +19,7 @@ html, body {
   margin: 0;
   padding: 0;
   height: 5rem; /* Or whatever height you prefer */
-  background: linear-gradient(0deg,#20603d 0%, #20603d 25%, #fad201 25%, #fad201 50%, #00A1DE 50%, #00A1DE 100%);
+  background: #034694;
   display: flex;
   align-items: center; /* vertically center the items */
   justify-content: center; /* horizontally center the items */
@@ -32,7 +32,7 @@ html, body {
 }
 
 h1 {
-  margin-top: 0.5rem;
+  margin-top: 0.0rem;
   margin-bottom: 0rem;
   text-align: center;
 }
@@ -58,17 +58,17 @@ h1 {
 
 .main-menu li a {
   text-decoration: none;
-  padding: 1rem;
+  padding: 0rem;
   color: #E5BE01;
 }
 
 .logo, .main-menu {
   margin-top:0rem;  /* Adjust margin to position items within the header */
-  padding-bottom: 1rem;
+  padding-bottom: 0rem;
 }
 
 a:link, a:visited {
-  color: #00A1DE; /* Change this to whatever color you want */
+  color: #034694; /* Change this to whatever color you want */
 }
 
 
@@ -79,7 +79,7 @@ a:link, a:visited {
   }
 
   .site-nav a {
-    padding: 0.5rem;
+    padding: 0.0rem;
     padding-left: 0;
   }
 }
