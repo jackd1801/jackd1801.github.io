@@ -4,7 +4,7 @@ type: custom
 layout: photos
 ---
 
-A smattering of photos from my life, travels and adventures. 
+Some pictures from my life, travels and adventures. 
 
 ## 2002
 
