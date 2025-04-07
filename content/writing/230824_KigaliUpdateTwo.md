@@ -1,0 +1,57 @@
+---
+title: "Kigali Update #2"
+date: 2023-08-24
+readingTime: True 
+categories: ["Personal", "Rwanda"]
+---
+--- 
+## TL;DR
+
+**Work:** Projects starting to take shape, better understanding of Rwandan work culture, feel like I'm actually effective.  
+**Travel:** Want to do write-ups for the places I've been, visit home was enjoyable but busy, excited for upcoming trips.  
+**Sports/Social:** Getting into a better routine fitness wise, have made some good friends, board games nights becoming a success.  
+**Misc.:** Car has been a nightmare and waste of money, better health after dietary changes.                
+**Overall:** Feeling content, excited for what's ahead.
+
+---
+
+Hello again, I’m now 8 months or so into my 2-year placement here in Kigali. Time really has flown since I wrote the last one of these and I’m going to change up the format so it’s a bit more sustainable going forward for writing these. 
+I’ve broken it down into sections on work, travel, social/sports, and miscellaneous, with a more mood focused update at the end. 
+
+**Work**
+
+Work in general has moved in a really positive direction. The Rwandan financial year runs from July-June and so I'm 2 months into the only full financial year I'll work here. It's good because it means that I've been given more concrete objectives to work towards, and because the most focused/intense part of my time here lines up in the middle. In the first 6 months I didn't accomplish very much, and I expect the last 6 months to be preoccupied with planning my next steps and preparing the organisation for my replacement (assuming there is one). This next 10 months or so is where I can really make my impact and that’s what I intend to do.
+
+Additionally, I've made a lot of progress in terms of general bonding with my colleagues which has made everything so much easier. A huge part of Rwandan work culture is phoning people or messaging them on WhatsApp. I'm not so keen on the phoning but don't mind the WhatsApp method, the issue previously was that I didn't have peoples’ numbers and I didn't know who to contact for various problems. Partly enabled by my trip home, discussed later, I've bonded quite a lot with some of my colleagues which has made it so much easier to get put in touch with the right person for any given problem. I have a few people in my immediate team that I’m comfortable with and will help me with any problem. 
+
+Much more so that in my previous two jobs I feel as though I can contribute a lot and drive a lot of change if I work hard and bring people along with me. To me, the most important part of my work here is ensuring that any change I make is sustainable for the organisation. It seems entirely pointless for me to work super hard on various data science projects or organisational projects only for them to die when I leave. And I think that's why I'm so pleased with the improved relations with my colleagues. Having a stronger layer of trust between us means that they're more likely to go along with changes I propose, and that they're more comfortable guiding me to make the changes ones that align better with their way of working. There's still a long way to go before I can start to call it a true success, but I'm definitely on the right path.
+
+
+**Travel**
+
+Since the last one of these I’ve kept up the travel habits going to a different country pretty much every month and it’s been by far my biggest year of travel. If I measure this year from November 2022 to November 2023, including Rwanda and the UK, I’ll have been to 17 countries, which feels a bit ridiculous. In Africa, I’ve now been to Rwanda (obviously), Kenya (though this was 15 years ago on a family holiday), Uganda, Burundi, Tanzania, Mauritius, and South Africa, and I have a planned trip in September to Eswatini and Mozambique. There’s also talk amongst me and some others of doing a land border crossing to the DRC at Goma but that’s still relatively uncertain. It’s my intention to start doing write ups of these places and my experiences there – especially some tips around how to travel. Africa has generally pretty poor information available about some of the less frequently visited parts and how to do things which often have very local norms. An example of this would be bribing culture which varies hugely from country to country. My favourite place so far has probably been Tanzania. It has the East African energy that’s present in Uganda/Kenya but is much more orderly and chill – likely because of the high density of Muslims. Zanzibar was also very cool. Stone Town was lovely, and the food was good and cheap, though it’s clearly very underdeveloped as a tourist destination compared to Mauritius. The North part of the island, which was supposed to have very nice resorts and beaches, had a lot of visible deprivation and terrible roads suggesting the revenue isn’t being recycled into the local community very well. And, truth be told, the beaches weren't *that* nice.
+
+In addition to my Africa travel, I also went home for the first time in June/July. It was surprisingly non-relaxing as I’d squashed in as much as possible to the 10 days or so I’d planned to be home for and so had something on almost every day. It was really nice to be back, and I enjoyed it way more than I expected, especially seeing my London friends. But it also validated my decision to leave, and I got some closure around my time in London and confirmed that there wasn’t much left for me there in terms of personal development. The travel was also unexpectedly extended by 10 days after I was notified that some of my Rwandan colleagues were coming for training in the UK and I was to attend as well. The weeks training was reasonably good and meant I got to stay in a nice hotel for 5 days. It also meant I was able to make strong connections with the colleagues that came as they were so reliant on me for navigating the UK in general. It was very sweet seeing how excited they were and how highly they regard the UK. I think the general public underestimate the level of soft power we still have globally and how highly we’re regarded across much of Africa. Getting to experience the trip with them did make me proud to British and more bullish on the country generally. However, while it was fun to have my Rwandan colleagues with me and get to show them around the UK I could have done with a week or so back in Kigali first to properly decompress and prepare for the trip.
+
+
+**Sports/Social**
+
+I’ve gotten into a good routine now for sports which is slowly getting me to where I want to be fitness wise. Initially I’d been relying on the gym and more ad-hoc sports, including boxing, and occasional football. But now I’ve transitioned into doing tennis, deliberate walks, a still somewhat inconsistent gym routine and home workouts. Tennis is, all things considered, pretty cheap. It costs 80USD for a yearly membership to the courts and then an additional 12USD for an hour of coaching. If you’re just playing against a friend, it’s covered by the yearly membership. And I’m planning to get a pull up bar made and installed at the house – the gym doesn’t cost a lot but for how little equipment I use it’s far easier to set up a home gym. I’ve also managed to go outdoor climbing a couple times in the past few months and am in a reasonably active group chat which should enable some more excursions in the coming weeks and months. 
+
+The social scene in Kigali seems to move through various peaks and troughs. I hadn’t appreciated this very much when I first moved but the turnover in expats is intense. Most people are here on 3–6-month placements which means that depending on when you meet them in their cycle, you might only end up having them as a friend for 6-8 weeks. It makes the investment side more challenging because you don’t really want to make a strong commitment to people that aren’t going to be here for a similar amount of time, but then if you get on well it’s still nice to hang out while they are here. I think I’ve gotten reasonably good at managing this trade-off and met some people that are here longer term and I get on well with, while still having room for some temporary friends as and when they pop up. In some ways it’s like a TV show with a solid main cast of 4-5 and a huge list of recurring/featured.  
+
+ The board game night has started to become a real success. I enjoy organising events but admittedly can get pretty stressed out by it at the same time. The first month or so of trying to get the board games nights going was very stressful as I’d managed to get about 15 people into the group chat and was struggling to get even 3 or 4 to show up each week. Part of the challenge is that I didn’t have anyone else who was a ‘hell yes’ type for the nights and so the people attending wouldn’t be consistent and was often somewhat contingent on others saying yes. That changed with the addition of a couple friends I made in May who are always down. It's made me less reliant on the other people but ironically also more likely for them to come anyway. We’ve had about 3 or 4 weeks in a row where a decent number of people have attended now and it’s starting to become a notable event in our small expat circle. 
+
+
+**Misc.**
+
+Car troubles have continued with another battery completely dying and my reliance on even needing a car dropping through the floor. It’s probably the only thing I regret so far about my time here - rushing to buy a car without taking a minute to figure out if it was even necessary. The rainy season is due to start and there might be scope for me to drive to work instead of getting motos but even then I'm not so sure. I’m leaning towards selling and just taking it as an expensive lesson learned – especially when interest rates are sitting as high as they are. 
+
+Probably the biggest success story of recent months is that I’ve finally managed to get my general health under control. I’ve not been properly sick for at least 3 weeks now and would say I’ve averaged feeling at about 90% for most of the past 2 months. I do have a persistent cough that’s appeared out of nowhere, but it doesn’t impact me beyond just being slightly annoying. The most likely cause of this is that I’ve restricted my diet heavily and don’t eat a variety of things. I’ve severely cut back on meat intake, especially beef (which I think was causing most of the issues), only regularly eat at 3 or 4 restaurants that I trust the cooking of and make a greater proportion of my own meals. It’s worth the trade-off to not feel crap all the time but is something I miss about being in the UK where I could trust almost any food establishment to not make me ill. 
+
+**Overall**
+
+This past week or so I’ve been reflecting on how high my mood is day-to-day. It's easily the highest it's been since I arrived in Kigali and close to the best I felt when I had been in London. I had a bit of a moment at work where I felt quite emotional because the baseline level of contentedness I have right now would’ve been inconceivable to the Jack from even 2-3 years ago. I’m excited for my future travel and what’s to come, and it honestly feels like I’m running out of time to do all the things I want to do even though I’m not even half-way through. Makes me appreciate the opportunity more and encourages me to cherish every moment. 
+
+Thanks for reading if you made it this far and I'll see you in the next one.
+

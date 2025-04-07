@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uk on jackbduncan</title>
+    <link>http://localhost:1313/tags/uk/</link>
+    <description>Recent content in Uk on jackbduncan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leaving Home</title>
+      <link>http://localhost:1313/writing/221116_leavinghome/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/221116_leavinghome/</guid>
+      <description>&lt;p&gt;Almost everyone that I know who has ever spoken to me about my dreams in life would be able to tell you that I’ve never seen my long-term future in the UK. Since I can remember, and have been able to contemplate such things, I’ve wanted to explore and live somewhere else in the world. For the most part this has been North America (mainly the United States), and while over time that specific part of the dream has waned, I’ve never properly considered staying.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

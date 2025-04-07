@@ -1,0 +1,38 @@
+{{ $year := .Get "year" }}
+<ul class="image-gallery">
+  {{ $images := .Page.Resources.ByType "image" }}
+  {{ with $images }}
+    {{ $sortedImages := sort . "Name" }}
+    {{ range $sortedImages }}
+      {{ $filename := .Name }}
+      {{ if strings.Contains $filename $year }}
+        {{ $components := strings.Split $filename " - " }}
+        {{ $dateStr := index $components 0 }}
+        {{ $captionStr := index $components 1 }}
+
+        {{ $extension := path.Ext $captionStr }}
+        {{ $trimmedCaptionStr := strings.Replace $captionStr $extension "" 1 }}
+
+        {{ $month := substr $dateStr 4 2 }}
+        {{ $monthTrimmed := $month }}
+        {{ if eq (substr $month 0 1) "0" }}
+          {{ $monthTrimmed = substr $month 1 1 }}
+        {{ end }}
+        {{ $monthInt := int $monthTrimmed }}
+        
+        {{ $day := substr $dateStr 6 2 }}
+        {{ $monthName := index (slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December") (sub $monthInt 1) }}
+
+        {{ $caption := printf "%s %s - %s" $monthName $year $trimmedCaptionStr }}
+        <li>
+          <a href="{{ (.Fill "1600x1600").Permalink }}" data-lightbox="my-gallery" title="{{ $caption }}">
+            <img src="{{ (.Fill "300x300").Permalink }}" alt="{{ $caption }}" title="{{ $caption }}">
+            <span>{{ $caption }}</span>
+          </a>
+        </li>
+      {{ end }}
+    {{ end }}
+  {{ else }}
+    <p>No images found</p>
+  {{ end }}
+</ul>
