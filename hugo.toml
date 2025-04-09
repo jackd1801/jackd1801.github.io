@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'jackbduncan'
 theme = 'ananke'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Navigation menu
 [menu]
   [[menu.main]]
