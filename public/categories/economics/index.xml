@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Economics on jackbduncan</title>
+    <link>http://localhost:1313/categories/economics/</link>
+    <description>Recent content in Economics on jackbduncan</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/economics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI and Language</title>
+      <link>http://localhost:1313/writing/230403_ailanguage/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/230403_ailanguage/</guid>
+      <description>&lt;p&gt;One of the largest and most immediate impacts of GPT-4 and other emerging AI technology, like Whisper, Midjourney, and text-to-speech generation, is going to be on language.&lt;/p&gt;&#xA;&lt;p&gt;There are three key areas where I think it’ll be applied in the near future, which are learning languages, media translation, and creation of a real life babel fish.  I finish up with some thoughts on what it might mean for work.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Learning Language&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
