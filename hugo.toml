@@ -34,8 +34,3 @@ theme = 'jack-custom-theme'
     name = "Projects"
     url = "/projects"
     weight = 60
-  [[menu.main]]
-    identifier = "pictures"
-    name = "Pictures"
-    url = "/pictures"
-    weight = 75
