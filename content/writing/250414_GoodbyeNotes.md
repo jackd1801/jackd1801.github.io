@@ -1,7 +1,6 @@
 ---
-title: Low cost intervention of sending nice messages
 date: 2025-04-14
-draft: FALSE
+title: "Low cost intervention of sending a nice message"
 readingTime: TRUE
 ---
 
