@@ -17,3 +17,4 @@ title: Blog Posts
 
 [Writing, Briefly](http://www.paulgraham.com/writing44.html) by Paul Graham 
 
+[Your real biological clock is you're going to die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/) by Tom Scocca 
