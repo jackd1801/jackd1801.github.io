@@ -2,7 +2,7 @@
 date: 2025-04-06
 readingTime: TRUE
 title: "Week of Blogging"
-draft: FALSE
+draft: TRUE
 ---
 
 Hello world. It has been a long time (over a year) since I've managed to follow through and write a blog post. A lot has happened in that time and as of yesterday I have finally felt somewhat on top of my life. 
