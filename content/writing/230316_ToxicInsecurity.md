@@ -2,7 +2,8 @@
 title: Toxic Insecurity
 date: 2023-03-16
 tags: ['reflective', 'personal']
-readingTime: True 
+readingTime: True
+draft: TRUE
 ---
 
 Insecurity and low self-esteem have been persistent mental health challenges for me throughout my life. These issues began around the age of 9, when I started comparing myself to others more frequently. One of the more toxic consequences of these issues has been its impact in romantic relationships.
